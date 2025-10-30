@@ -59,19 +59,5 @@ A comprehensive guide from IBM covering machine learning concepts, applications,
 
 An excellent resource for understanding how neural networks transform data through their layers, with clear visual demonstrations.
 
----
-
-## 💡 Getting Started
-
-1. **Start with the basics**: Watch the 3Blue1Brown Linear Algebra series to build mathematical foundations
-2. **Understand neural networks**: Move on to the Neural Network series
-3. **Explore applications**: Read the IBM guide to see real-world applications
-4. **Visualize concepts**: Use the visualization resources to deepen your understanding
-
-## 🤝 Contributing
-
-Have more resources to share? Feel free to add them to this document!
-
----
 
 *Happy Learning! 🚀*
